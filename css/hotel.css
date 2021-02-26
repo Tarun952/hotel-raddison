@@ -1,0 +1,228 @@
+#welcome{
+    background-color: #e36bae ;
+   
+    text-align: center;
+    color: white;
+}
+.body{
+    margin: 0;
+}
+.frst-para{
+    padding: 15px;
+    line-height:2;
+    font-family: 'Montserrat';
+    color: white;
+}
+
+.nav-item{
+    padding: 0 18px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    font-family: 'Ubuntu';
+}
+
+p{
+    line-height:2;
+    font-family: 'Montserrat';
+    /* color: #fff; */
+    color:gray;
+  
+}
+
+.center-info{
+padding: 5% 15%;
+padding-bottom: 0%;
+}
+
+.carousel-item{
+padding:3% 15%;
+
+}
+
+.card{
+    margin: 20px 50px 20px 50px;
+}
+.row{
+padding-left:50px;
+}
+
+.middle-features{
+    
+    background-color: #4a47a3;
+    /* margin-left:150px; */
+    
+}
+.mid-color{
+    padding:5% 15% ;
+
+   
+}
+.mid-images{
+    width: 90%;
+    height:500px ;
+}
+
+.mid-box{
+    text-align: left;
+    margin: 100px auto 20px auto;
+    width: 50%;
+    line-height: 2;
+}
+.food{
+    /* padding-left: 10rem; */
+    width:30%;
+    border-radius: 100%;
+    float: left;
+    margin-right:40px;
+   
+    
+}
+.swimmingpool{
+    width:45%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 20px;
+}
+.facility{
+   padding-bottom: 170px;
+}
+
+
+#footer{
+    padding: 5% 10%;
+    text-align: center;
+}
+.footer-fut{
+    padding: 20px 30px 30px 20px ;
+}
+
+
+/* GALLERY */
+.gallery{
+    text-align: left;
+    width: 80%;
+    margin:100px auto 50px auto;
+    line-height: 2;
+    
+}
+.facility-gallery{
+    background-color: #6ddccf;
+    padding: 100px 50px 200px 50px;
+   
+}
+.facility-gallery1{
+    background-color:#cdfffc;
+    padding: 100px 50px 200px 50px;
+}
+.room{
+    width:30%;
+    float: left;
+    margin-right: 20px;
+   
+}
+.staff-img{
+    width:25%;
+    float: left;
+    margin-right: 20px;
+}
+.bathroom{
+    width:30%;
+    float: right;
+    /* margin-right: 20px; */
+    /* padding-right: 100px; */
+    
+}
+.gal-pad{
+    /* padding: 3% 15%; */
+}
+
+.gallery-para{
+    color: #222831;
+    font-size: 1.1rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gallery-background{
+    background-color: #cdfffc;
+   text-align: center;
+}
+.gallery-heading{
+    font-family:'Montserrat';
+     font-size: 3rem; 
+    line-height: 1.5;
+    font-weight: bold;
+    color:#222831;
+}
+/* offers */
+.offers-background{
+    background-color: #fcdada;
+    font-family: 'Montserrat';
+    
+}
+
+.top-offer{
+    transition: 1s;
+    background-color: #4196ec;
+    text-align: center;
+}
+.top-offer:hover{
+    transform: scale(1.3);
+    background: #ef8d32;
+    box-shadow: 2px 2px 2px #000;
+    z-index: 2;
+}
+.bold{
+    
+    color: #ffff;
+    font-size: 3.7rem;
+    font-weight: bold;
+   
+    
+}
+.bold-2{
+    color: #ffff;
+    font-size: 2rem;
+}
+.bolder{
+    color: #ffff;
+    font-size:9rem ;
+    font-weight: bolder;
+}
+
+.bottom-offer{
+    background-color: #ffe227;
+    text-align: left;
+    padding-left: 12px;
+}
+.bold-3{
+    font-size: 3rem;
+}
+.cashback-offer{
+    color: darkblue;
+}
+.validity{
+    font-weight: bold;
+    color: black;
+    padding-top: 25px;
+    font-size: 1.5rem;
+    /* left: 400px; */
+}
+
+/* .bottom-bottom{
+   
+  padding-left:645px;
+} */
+
+
+
+/* pricing */
+
+
+.para{
+    line-height: 1.5;
+    font-size:1.7rem;
+    color: black;
+}
+.pricing{
+    background-color:#cdfffc ;
+}
+
